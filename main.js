@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk"; //Chalk Module: It helps to customize the color of the output of the command-line output.
 //Intilized user balance and Pinn
