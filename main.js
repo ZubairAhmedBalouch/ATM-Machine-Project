@@ -81,3 +81,4 @@ else {
 //1) Added fast cash method in ATM.
 //2) Added templete literal method at the place of string concatenation.
 //3) Used comparison operator, if user enters greater amount than current balance, ATM Shows insufficient Balance.
+//4) Imported and used Chalk module for attractive and colorful command-line-interface output.
